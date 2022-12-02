@@ -9,8 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-bootstrap": "^2.6.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.4"
   },
   "devDependencies": {
     "@types/react": "^18.0.24",
@@ -18,5 +21,18 @@
     "@vitejs/plugin-react": "^2.2.0",
     "typescript": "^4.6.4",
     "vite": "^3.2.3"
-  }
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saqibs3291/react-ts-shopping-cart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saqibs3291/react-ts-shopping-cart/issues"
+  },
+  "homepage": "https://github.com/saqibs3291/react-ts-shopping-cart#readme",
+  "description": ""
 }
